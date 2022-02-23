@@ -11,12 +11,14 @@ Give your 10 diffusion weighed images and obtein the FA!!
 
 For the compatibility between the Python and Matlab version see https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/support/sysreq/files/python-compatibility.pdf
 
+Open a terminal and navigate in the foldere where you want work ('path_to_down'). 
 
-
+Clone the code in your 'path_to_down'
 
 ```
 git clone git@github.com:marta-gaviraghi/diffusion_FA.git
 ```
+Give your 10 diffusion weighet images and wait ... 
 
 ```
 python3 main_python.py 'path_dir' 'path_to_down' 'dwi_10'
