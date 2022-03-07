@@ -1,5 +1,5 @@
 # diffusion_FA
-Our deep learning network allows to map Fractional Anisotropy form a set of only 10 Diffusion Weighed volumes. See paper *DOI bla bla* for more details.
+Our deep learning network allows to map Fractional Anisotropy form a set of only 10 Diffusion Weighed volumes.
 
 Give your 10 diffusion weighed images and obtein the FA!!
 
@@ -43,5 +43,3 @@ OPTIONAL
 - brain_mask = 'name of the brain mask'
 
 Remember to define your path and name of fie between the single comma and that for your name file you don't indicate the extention .nii.gz
-
-
