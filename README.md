@@ -5,7 +5,7 @@ Give your 10 diffusion weighed images and obtein the FA!!
 
 ## you need
 
-- Python3 (you need the following packages: natsort, tensorflow, keras, scipy, numpy, matlab.engine(penso standard da rivedere))
+- Python3 (you need the following packages: natsort, tensorflow, keras, scipy, numpy)
 
 - Matlab
 
