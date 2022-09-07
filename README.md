@@ -3,7 +3,7 @@ Our deep learning network allows to map Fractional Anisotropy form a set of only
 
 Give your 10 diffusion weighed images and obtein the FA!!
 
-For all details check the paper: network for fractional anisotropy reconstruction "A generalized deep learning network for fractional anisotropy reconstruction : Application to epilepsy and multiple sclerosis" (Gaviraghi et al, 2022)
+For all details check the paper "A generalized deep learning network for fractional anisotropy reconstruction : Application to epilepsy and multiple sclerosis" (Gaviraghi et al, 2022)
 https://doi.org/10.3389/fninf.2022.891234
 
 ## you need
